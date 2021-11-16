@@ -1,0 +1,35 @@
+.container{
+    background-color: white;
+    width:1200px;
+    height: 900px;
+    margin: 0 auto;
+}
+
+.col{
+    Margin: 20px 50px;
+    Border: 2px solid darkgrey;
+    width: 350px;
+    height: 400px;
+}
+
+.wrapper img{
+    width: 350px;
+    height: 80px;
+}
+
+.content img{
+    border-radius: 50%;
+    border:2px solid white;
+    margin-top: -52px;
+}
+
+.content{
+    margin: 0px 30px
+}
+.content1 img{
+    border: none
+}
+
+.ep{
+    color: black
+}
